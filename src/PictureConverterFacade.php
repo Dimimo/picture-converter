@@ -4,9 +4,6 @@ namespace Dimimo\PictureConverter;
 
 use Illuminate\Support\Facades\Facade;
 
-/**
- * @see \Dimimo\PictureConverter\Skeleton\SkeletonClass
- */
 class PictureConverterFacade extends Facade
 {
     /**
